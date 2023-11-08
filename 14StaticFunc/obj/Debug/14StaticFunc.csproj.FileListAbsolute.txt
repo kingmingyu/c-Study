@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\14StaticFunc\obj\Debug\14StaticFunc.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\14StaticFunc\obj\Debug\14StaticFunc.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\14StaticFunc\bin\Debug\14StaticFunc.exe.config
+C:\UnityStudy\UnityCs\14StaticFunc\bin\Debug\14StaticFunc.exe
+C:\UnityStudy\UnityCs\14StaticFunc\bin\Debug\14StaticFunc.pdb
+C:\UnityStudy\UnityCs\14StaticFunc\obj\Debug\14StaticFunc.exe
+C:\UnityStudy\UnityCs\14StaticFunc\obj\Debug\14StaticFunc.pdb

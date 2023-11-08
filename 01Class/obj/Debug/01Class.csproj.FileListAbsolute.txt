@@ -1,0 +1,2 @@
+C:\UnityStudy\UnityCs\01Class\obj\Debug\01Class.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\01Class\obj\Debug\01Class.csproj.CoreCompileInputs.cache

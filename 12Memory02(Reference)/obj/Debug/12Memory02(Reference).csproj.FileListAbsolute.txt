@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\12Memory02(Reference)\bin\Debug\12Memory02(Reference).exe.config
+C:\UnityStudy\UnityCs\12Memory02(Reference)\bin\Debug\12Memory02(Reference).exe
+C:\UnityStudy\UnityCs\12Memory02(Reference)\bin\Debug\12Memory02(Reference).pdb
+C:\UnityStudy\UnityCs\12Memory02(Reference)\obj\Debug\12Memory02(Reference).csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\12Memory02(Reference)\obj\Debug\12Memory02(Reference).csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\12Memory02(Reference)\obj\Debug\12Memory02(Reference).exe
+C:\UnityStudy\UnityCs\12Memory02(Reference)\obj\Debug\12Memory02(Reference).pdb

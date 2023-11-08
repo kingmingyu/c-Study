@@ -1,0 +1,6 @@
+C:\UnityStudy\UnityCs\08FuncEx\bin\Debug\08FuncEx.exe.config
+C:\UnityStudy\UnityCs\08FuncEx\bin\Debug\08FuncEx.exe
+C:\UnityStudy\UnityCs\08FuncEx\bin\Debug\08FuncEx.pdb
+C:\UnityStudy\UnityCs\08FuncEx\obj\Debug\08FuncEx.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\08FuncEx\obj\Debug\08FuncEx.exe
+C:\UnityStudy\UnityCs\08FuncEx\obj\Debug\08FuncEx.pdb

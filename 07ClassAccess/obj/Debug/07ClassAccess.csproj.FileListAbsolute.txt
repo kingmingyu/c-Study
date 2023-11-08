@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\07ClassAccess\bin\Debug\07ClassAccess.exe.config
+C:\UnityStudy\UnityCs\07ClassAccess\bin\Debug\07ClassAccess.exe
+C:\UnityStudy\UnityCs\07ClassAccess\bin\Debug\07ClassAccess.pdb
+C:\UnityStudy\UnityCs\07ClassAccess\obj\Debug\07ClassAccess.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\07ClassAccess\obj\Debug\07ClassAccess.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\07ClassAccess\obj\Debug\07ClassAccess.exe
+C:\UnityStudy\UnityCs\07ClassAccess\obj\Debug\07ClassAccess.pdb

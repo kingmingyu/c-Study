@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\09Operator\bin\Debug\09Operator.exe.config
+C:\UnityStudy\UnityCs\09Operator\bin\Debug\09Operator.exe
+C:\UnityStudy\UnityCs\09Operator\bin\Debug\09Operator.pdb
+C:\UnityStudy\UnityCs\09Operator\obj\Debug\09Operator.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\09Operator\obj\Debug\09Operator.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\09Operator\obj\Debug\09Operator.exe
+C:\UnityStudy\UnityCs\09Operator\obj\Debug\09Operator.pdb

@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\03CodeStartAndRead\bin\Debug\03CodeStartAndRead.exe.config
+C:\UnityStudy\UnityCs\03CodeStartAndRead\bin\Debug\03CodeStartAndRead.exe
+C:\UnityStudy\UnityCs\03CodeStartAndRead\bin\Debug\03CodeStartAndRead.pdb
+C:\UnityStudy\UnityCs\03CodeStartAndRead\obj\Debug\03CodeStartAndRead.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\03CodeStartAndRead\obj\Debug\03CodeStartAndRead.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\03CodeStartAndRead\obj\Debug\03CodeStartAndRead.exe
+C:\UnityStudy\UnityCs\03CodeStartAndRead\obj\Debug\03CodeStartAndRead.pdb

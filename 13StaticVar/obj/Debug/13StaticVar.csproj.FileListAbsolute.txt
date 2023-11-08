@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\13StaticVar\bin\Debug\13StaticVar.exe.config
+C:\UnityStudy\UnityCs\13StaticVar\bin\Debug\13StaticVar.exe
+C:\UnityStudy\UnityCs\13StaticVar\bin\Debug\13StaticVar.pdb
+C:\UnityStudy\UnityCs\13StaticVar\obj\Debug\13StaticVar.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\13StaticVar\obj\Debug\13StaticVar.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\13StaticVar\obj\Debug\13StaticVar.exe
+C:\UnityStudy\UnityCs\13StaticVar\obj\Debug\13StaticVar.pdb
