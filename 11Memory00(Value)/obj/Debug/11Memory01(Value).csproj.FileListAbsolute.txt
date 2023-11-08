@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\11Memory00(Value)\bin\Debug\11Memory00(Value).exe.config
+C:\UnityStudy\UnityCs\11Memory00(Value)\bin\Debug\11Memory00(Value).exe
+C:\UnityStudy\UnityCs\11Memory00(Value)\bin\Debug\11Memory00(Value).pdb
+C:\UnityStudy\UnityCs\11Memory00(Value)\obj\Debug\11Memory01(Value).csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\11Memory00(Value)\obj\Debug\11Memory01(Value).csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\11Memory00(Value)\obj\Debug\11Memory00(Value).exe
+C:\UnityStudy\UnityCs\11Memory00(Value)\obj\Debug\11Memory00(Value).pdb

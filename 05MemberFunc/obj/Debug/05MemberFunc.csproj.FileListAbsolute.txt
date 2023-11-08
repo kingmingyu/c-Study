@@ -1,0 +1,2 @@
+C:\UnityStudy\UnityCs\05MemberFunc\obj\Debug\05MemberFunc.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\05MemberFunc\obj\Debug\05MemberFunc.csproj.CoreCompileInputs.cache
