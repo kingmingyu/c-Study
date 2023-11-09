@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\17While\bin\Debug\17While.exe.config
+C:\UnityStudy\UnityCs\17While\bin\Debug\17While.exe
+C:\UnityStudy\UnityCs\17While\bin\Debug\17While.pdb
+C:\UnityStudy\UnityCs\17While\obj\Debug\17While.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\17While\obj\Debug\17While.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\17While\obj\Debug\17While.exe
+C:\UnityStudy\UnityCs\17While\obj\Debug\17While.pdb

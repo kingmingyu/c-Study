@@ -1,0 +1,6 @@
+C:\UnityStudy\UnityCs\19If\bin\Debug\19If.exe.config
+C:\UnityStudy\UnityCs\19If\bin\Debug\19If.exe
+C:\UnityStudy\UnityCs\19If\bin\Debug\19If.pdb
+C:\UnityStudy\UnityCs\19If\obj\Debug\19If.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\19If\obj\Debug\19If.exe
+C:\UnityStudy\UnityCs\19If\obj\Debug\19If.pdb

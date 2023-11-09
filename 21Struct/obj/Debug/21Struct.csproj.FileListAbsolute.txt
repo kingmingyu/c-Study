@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\21Struct\bin\Debug\21Struct.exe.config
+C:\UnityStudy\UnityCs\21Struct\bin\Debug\21Struct.exe
+C:\UnityStudy\UnityCs\21Struct\bin\Debug\21Struct.pdb
+C:\UnityStudy\UnityCs\21Struct\obj\Debug\21Struct.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\21Struct\obj\Debug\21Struct.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\21Struct\obj\Debug\21Struct.exe
+C:\UnityStudy\UnityCs\21Struct\obj\Debug\21Struct.pdb

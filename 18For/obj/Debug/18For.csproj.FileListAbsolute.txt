@@ -1,0 +1,6 @@
+C:\UnityStudy\UnityCs\18For\bin\Debug\18For.exe.config
+C:\UnityStudy\UnityCs\18For\bin\Debug\18For.exe
+C:\UnityStudy\UnityCs\18For\bin\Debug\18For.pdb
+C:\UnityStudy\UnityCs\18For\obj\Debug\18For.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\18For\obj\Debug\18For.exe
+C:\UnityStudy\UnityCs\18For\obj\Debug\18For.pdb

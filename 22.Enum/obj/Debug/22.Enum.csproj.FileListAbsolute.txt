@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\22.Enum\bin\Debug\22.Enum.exe.config
+C:\UnityStudy\UnityCs\22.Enum\bin\Debug\22.Enum.exe
+C:\UnityStudy\UnityCs\22.Enum\bin\Debug\22.Enum.pdb
+C:\UnityStudy\UnityCs\22.Enum\obj\Debug\22.Enum.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\22.Enum\obj\Debug\22.Enum.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\22.Enum\obj\Debug\22.Enum.exe
+C:\UnityStudy\UnityCs\22.Enum\obj\Debug\22.Enum.pdb
