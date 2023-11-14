@@ -1,0 +1,6 @@
+C:\UnityStudy\UnityCs\24ClassConstructer\bin\Debug\24ClassConstructer.exe.config
+C:\UnityStudy\UnityCs\24ClassConstructer\bin\Debug\24ClassConstructer.exe
+C:\UnityStudy\UnityCs\24ClassConstructer\bin\Debug\24ClassConstructer.pdb
+C:\UnityStudy\UnityCs\24ClassConstructer\obj\Debug\24ClassConstructer.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\24ClassConstructer\obj\Debug\24ClassConstructer.exe
+C:\UnityStudy\UnityCs\24ClassConstructer\obj\Debug\24ClassConstructer.pdb
