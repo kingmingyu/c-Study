@@ -26,12 +26,21 @@ class FightUnit
     protected string Name = "None";
     protected int Att = 10;
     protected int Hp = 50;
-    protected int MaxHp = 100;
+    protected int m_MaxHp = 100;
+
+    public int MaxHp {
+        get {
+            return m_MaxHp;
+        }
+        set {
+            m_MaxHp = value;
+        }
+    }
 
     public void StatusRender()
     {
         Console.WriteLine("----------------"+ Name + "의 능력치----------------");
-        Console.WriteLine("공격력: " + Att + " || 체력: " + Hp + "/" + MaxHp);
+        Console.WriteLine("공격력: " + Att + "\n체력: " + Hp + "/" + MaxHp);
         Console.WriteLine("----------------------------------------------------");
     }
 

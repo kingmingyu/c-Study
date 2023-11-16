@@ -1,0 +1,6 @@
+C:\UnityStudy\UnityCs\26Properties\bin\Debug\26Properties.exe.config
+C:\UnityStudy\UnityCs\26Properties\bin\Debug\26Properties.exe
+C:\UnityStudy\UnityCs\26Properties\bin\Debug\26Properties.pdb
+C:\UnityStudy\UnityCs\26Properties\obj\Debug\26Properties.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\26Properties\obj\Debug\26Properties.exe
+C:\UnityStudy\UnityCs\26Properties\obj\Debug\26Properties.pdb
