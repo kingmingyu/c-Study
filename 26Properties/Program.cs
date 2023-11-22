@@ -53,8 +53,8 @@ class Player{
             m_StaticValue = value;
         }
     }
-    }
 }
+
 namespace _26Properties
 {
     class Program
