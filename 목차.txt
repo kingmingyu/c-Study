@@ -13,3 +13,11 @@
 12. Memory02(Reference)
 13. StaticVar
 14. StaticFunc
+15. StaticClass
+16. This
+17. While
+18. For
+19. If
+20. Switch
+21. Struct
+22. Enum

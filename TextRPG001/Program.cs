@@ -80,7 +80,7 @@ namespace TextRPG001
 
             //객체화하지않고 쓸 수 있는 함수 -> static함수 or 정적맴버함수.
             //while (true) {
-            //    ConsoleKeyInfo KeyInfo = Console.ReadKey(); //키보드로 무엇을 누를때까지 기다려주는 함수.
+            //    ConsoleKeyInfo KeyInfo = Console.ReadKey(); -> 키보드로 무엇을 누를때까지 기다려주는 함수.
             //                                                그리고 무엇을 눌렀다면 무엇을 눌렀다고 다시 되돌려줌.
             //                                                자료형이 "ConsoleKeyInfo" int와 같은 자료형이다. "값형"이다.
             //    Console.WriteLine(KeyInfo.Key);

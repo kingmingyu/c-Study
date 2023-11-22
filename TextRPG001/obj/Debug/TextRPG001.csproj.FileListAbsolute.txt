@@ -5,3 +5,10 @@ C:\UnityStudy\UnityCs\TextRPG001\obj\Debug\TextRPG001.csproj.AssemblyReference.c
 C:\UnityStudy\UnityCs\TextRPG001\obj\Debug\TextRPG001.csproj.CoreCompileInputs.cache
 C:\UnityStudy\UnityCs\TextRPG001\obj\Debug\TextRPG001.exe
 C:\UnityStudy\UnityCs\TextRPG001\obj\Debug\TextRPG001.pdb
+C:\UnityCS\TextRPG001\bin\Debug\TextRPG001.exe.config
+C:\UnityCS\TextRPG001\bin\Debug\TextRPG001.exe
+C:\UnityCS\TextRPG001\bin\Debug\TextRPG001.pdb
+C:\UnityCS\TextRPG001\obj\Debug\TextRPG001.csproj.AssemblyReference.cache
+C:\UnityCS\TextRPG001\obj\Debug\TextRPG001.csproj.CoreCompileInputs.cache
+C:\UnityCS\TextRPG001\obj\Debug\TextRPG001.exe
+C:\UnityCS\TextRPG001\obj\Debug\TextRPG001.pdb
