@@ -1,0 +1,6 @@
+C:\UnityStudy\UnityCs\37Reference01\bin\Debug\37Reference01.exe.config
+C:\UnityStudy\UnityCs\37Reference01\bin\Debug\37Reference01.exe
+C:\UnityStudy\UnityCs\37Reference01\bin\Debug\37Reference01.pdb
+C:\UnityStudy\UnityCs\37Reference01\obj\Debug\37Reference01.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\37Reference01\obj\Debug\37Reference01.exe
+C:\UnityStudy\UnityCs\37Reference01\obj\Debug\37Reference01.pdb
