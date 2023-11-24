@@ -39,17 +39,17 @@ namespace _39List
             //자료: 넣어준 int
             for (int i = 0; i < 10; i++) {
                 Console.WriteLine((NewList.Count + 1).ToString() + "Add");
-                Console.WriteLine("Capacity: " + NewList.Capacity); //배열의 크기
-                Console.WriteLine("Count: " + NewList.Count); // 자료의 크기
+                Console.WriteLine("Capacity: " + NewList.Capacity); //배열의 크기(자동으로 2배씩 확장)
+                Console.WriteLine("Count: " + NewList.Count); // 자료의 크기(내가 넣은 int~ 너를 위해 넣었지~)
                 NewList.Add(i);
             }
 
             Console.WriteLine("");
             Console.WriteLine("Contains");
-            //참색에는 유리하지 않은 자료구조라고 본다.
+            //탐색에는 유리하지 않은 자료구조라고 본다.
             //인덱스로 표현할 수 있다면 탐색에 가장 유리한 자료구조이다.
-            //내부에 자료가 있는지 없는지 판단한다.
-            if (NewList.Contains(8)) {
+            
+            if (NewList.Contains(8)) {//내부에 자료가 있는지 없는지 판단한다.
                 Console.WriteLine("내부에 8이 있습니다.");
             }
 
@@ -73,6 +73,8 @@ namespace _39List
             NewList.RemoveAt(1); //첫번째를 지운다.(0번쨰도 있다는 것 명심)
           //NewList.RemoveAll 다른 리스트 혹은 배열을 넣어 비교해서 중복되면 지운다.
             NewList.RemoveRange(0, 2);//0번쨰부터 2개 지워라.
+
+            Console.WriteLine("");
 
             for (int i = 0; i < NewList.Count; i++) {
                 Console.Write(NewList[i]);

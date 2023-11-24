@@ -23,7 +23,7 @@ class Node<T>
 class Room
 {
 
-}//방이 다른방과 연결되있고 또 다른 방과 연결되있고 등 실전에서는 이런 곳에 쓰인다.
+}//방이 다른방과 연결되있고 또 다른 방과 연결되있고 등 실전에서는 이런 곳에 쓰인다. (42NodeEx 참고)
 namespace _40Node
 {
     class Program
@@ -40,13 +40,15 @@ namespace _40Node
             Node3.Prev = Node2;
             Node2.Prev = Node1;
 
+            //앞에서부터 노드 출력하기.
             Node<int> CurNode = Node1;
 
             while (CurNode != null) {
                 Console.WriteLine(CurNode.Data);
                 CurNode = CurNode.Next;
             }
-
+            
+            //뒤에서부터 노드 출력하기
             Node<int> RCurNode = Node3;
 
             while (RCurNode != null) {
