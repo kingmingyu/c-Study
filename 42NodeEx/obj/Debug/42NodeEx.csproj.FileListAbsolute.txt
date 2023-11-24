@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\42NodeEx\obj\Debug\42NodeEx.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\42NodeEx\obj\Debug\42NodeEx.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\42NodeEx\bin\Debug\42NodeEx.exe.config
+C:\UnityStudy\UnityCs\42NodeEx\bin\Debug\42NodeEx.exe
+C:\UnityStudy\UnityCs\42NodeEx\bin\Debug\42NodeEx.pdb
+C:\UnityStudy\UnityCs\42NodeEx\obj\Debug\42NodeEx.exe
+C:\UnityStudy\UnityCs\42NodeEx\obj\Debug\42NodeEx.pdb

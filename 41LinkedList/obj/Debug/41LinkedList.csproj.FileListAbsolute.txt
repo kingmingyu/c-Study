@@ -1,0 +1,6 @@
+C:\UnityStudy\UnityCs\41LinkedList\bin\Debug\41LinkedList.exe.config
+C:\UnityStudy\UnityCs\41LinkedList\bin\Debug\41LinkedList.exe
+C:\UnityStudy\UnityCs\41LinkedList\bin\Debug\41LinkedList.pdb
+C:\UnityStudy\UnityCs\41LinkedList\obj\Debug\41LinkedList.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\41LinkedList\obj\Debug\41LinkedList.exe
+C:\UnityStudy\UnityCs\41LinkedList\obj\Debug\41LinkedList.pdb

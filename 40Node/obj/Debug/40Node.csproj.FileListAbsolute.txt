@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\40Node\obj\Debug\40Node.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\40Node\obj\Debug\40Node.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\40Node\bin\Debug\40Node.exe.config
+C:\UnityStudy\UnityCs\40Node\bin\Debug\40Node.exe
+C:\UnityStudy\UnityCs\40Node\bin\Debug\40Node.pdb
+C:\UnityStudy\UnityCs\40Node\obj\Debug\40Node.exe
+C:\UnityStudy\UnityCs\40Node\obj\Debug\40Node.pdb
