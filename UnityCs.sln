@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31624.102
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00Using", "00Using\00Using.csproj", "{522C6257-6091-4F81-A604-0C8059A07FFE}"
 EndProject
@@ -92,7 +92,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36Generic00", "36Generic00\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37Reference01", "37Reference01\37Reference01.csproj", "{6837556E-B456-48A6-858C-03B005113329}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38DataStructure", "38DataStructure\38DataStructure.csproj", "{152D1242-A105-46B8-A7F9-7D2AC8B31FE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38DataStructure(여기서부터 자료구조)", "38DataStructure\38DataStructure(여기서부터 자료구조).csproj", "{152D1242-A105-46B8-A7F9-7D2AC8B31FE2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39List", "39List\39List.csproj", "{D85F1781-8FCD-4E0E-AC27-E71F90F2A64E}"
 EndProject
@@ -101,6 +101,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41LinkedList", "41LinkedList\41LinkedList.csproj", "{223370F6-90D7-4B9E-98B1-AC3B9128ED45}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42NodeEx", "42NodeEx\42NodeEx.csproj", "{7F8ADFCC-90D0-4167-B0D8-43BA39B98AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43Dictionary", "43Dictionary\43Dictionary.csproj", "{B1553A09-6900-45F4-A555-8D430494B733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44DataStructEx", "44DataStructEx\44DataStructEx.csproj", "{14BC9569-F27D-4DD3-BA5E-EF0864F9E871}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -288,6 +292,14 @@ Global
 		{7F8ADFCC-90D0-4167-B0D8-43BA39B98AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F8ADFCC-90D0-4167-B0D8-43BA39B98AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F8ADFCC-90D0-4167-B0D8-43BA39B98AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1553A09-6900-45F4-A555-8D430494B733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1553A09-6900-45F4-A555-8D430494B733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1553A09-6900-45F4-A555-8D430494B733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1553A09-6900-45F4-A555-8D430494B733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BC9569-F27D-4DD3-BA5E-EF0864F9E871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BC9569-F27D-4DD3-BA5E-EF0864F9E871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BC9569-F27D-4DD3-BA5E-EF0864F9E871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BC9569-F27D-4DD3-BA5E-EF0864F9E871}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -338,6 +350,8 @@ Global
 		{3A6CA212-577D-462B-93FB-6CC223CBF70C} = {F4008BD6-6C2C-4B14-9DF1-07A92BE4EE61}
 		{223370F6-90D7-4B9E-98B1-AC3B9128ED45} = {F4008BD6-6C2C-4B14-9DF1-07A92BE4EE61}
 		{7F8ADFCC-90D0-4167-B0D8-43BA39B98AE6} = {F4008BD6-6C2C-4B14-9DF1-07A92BE4EE61}
+		{B1553A09-6900-45F4-A555-8D430494B733} = {F4008BD6-6C2C-4B14-9DF1-07A92BE4EE61}
+		{14BC9569-F27D-4DD3-BA5E-EF0864F9E871} = {F4008BD6-6C2C-4B14-9DF1-07A92BE4EE61}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {02A4FDD8-5969-4E0B-8594-2C18B9809982}

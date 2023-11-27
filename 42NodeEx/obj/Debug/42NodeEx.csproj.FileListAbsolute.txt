@@ -5,3 +5,10 @@ C:\UnityStudy\UnityCs\42NodeEx\bin\Debug\42NodeEx.exe
 C:\UnityStudy\UnityCs\42NodeEx\bin\Debug\42NodeEx.pdb
 C:\UnityStudy\UnityCs\42NodeEx\obj\Debug\42NodeEx.exe
 C:\UnityStudy\UnityCs\42NodeEx\obj\Debug\42NodeEx.pdb
+C:\Users\김민규\Source\Repos\c-Study\42NodeEx\bin\Debug\42NodeEx.exe.config
+C:\Users\김민규\Source\Repos\c-Study\42NodeEx\bin\Debug\42NodeEx.exe
+C:\Users\김민규\Source\Repos\c-Study\42NodeEx\bin\Debug\42NodeEx.pdb
+C:\Users\김민규\Source\Repos\c-Study\42NodeEx\obj\Debug\42NodeEx.csproj.AssemblyReference.cache
+C:\Users\김민규\Source\Repos\c-Study\42NodeEx\obj\Debug\42NodeEx.csproj.CoreCompileInputs.cache
+C:\Users\김민규\Source\Repos\c-Study\42NodeEx\obj\Debug\42NodeEx.exe
+C:\Users\김민규\Source\Repos\c-Study\42NodeEx\obj\Debug\42NodeEx.pdb
