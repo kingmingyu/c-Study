@@ -18,19 +18,49 @@ using System.Threading.Tasks;
 //예를 들어 10줄 5줄 짜리 함수를 10개 5개 만들어서
 //또 그 함수들을 갖고 10줄 5줄짜리 함수를 만드는 것이 좋다.
 
-class Player
+//코드 재활용성이 떨어진다는 표현을 사용하게 된다.
+//이 코드 재활용성을 향상시키기 위한 문법이 "상속"이다. -> 똑같은 코드 2번 치기 싫어서.
+
+class FightUnit
 {
-    int Att = 10;
-    int Hp = 53;
-    int MaxHp = 100;
+    protected string Name = "None";
+    protected int Att = 10;
+    protected int Hp = 50;
+    protected int m_MaxHp = 100;
+
+    public int MaxHp {
+        get {
+            return m_MaxHp;
+        }
+        set {
+            m_MaxHp = value;
+        }
+    }
 
     public void StatusRender()
     {
-        Console.WriteLine("------------------------------------------");
-        Console.WriteLine("공격력: " + Att + " || 체력: " + Hp + "/" + MaxHp);
-        Console.WriteLine("------------------------------------------");
+        Console.WriteLine("----------------"+ Name + "의 능력치----------------");
+        Console.WriteLine("공격력: " + Att + "\n체력: " + Hp + "/" + MaxHp);
+        Console.WriteLine("----------------------------------------------------");
     }
 
+    public bool isDeath()
+    {
+        return Hp <= 0;
+    }
+
+    public void Attack(FightUnit fightunit)
+    {
+        fightunit.Hp -= Att;
+        Console.WriteLine(Name + "가 " + fightunit.Name + "에게 " + Att + "만큼의 피해를 입혔습니다.");
+    }
+}
+class Player : FightUnit
+{
+    public Player()
+    {
+        Name = "플레이어";
+    }
     public void HealHp(int potion)
     {
         if (Hp <= MaxHp - potion) {
@@ -54,9 +84,13 @@ class Player
     }
 }
 
-class Monster
+class Monster : FightUnit
 {
-
+    //인자값을 만들어줄 수도 있다.
+    public Monster(string name)
+    {
+        Name = name;
+    }
 }
 
 //에러나 잘못된 선택에 관한 것도 만든다.
@@ -116,14 +150,14 @@ namespace TextRPG001
 
             }//시작한다를 담당하는 함수(마을로 갈 것인지, 싸움터로 갈 것인지.)
 
-            static void Town(Player player)
+            static STARTSELECT Town(Player player)
             {
                 int potion = 10;
                 while (true) {
                     Console.Clear();
                     player.StatusRender();
                     Console.WriteLine("마을에서 무슨일을 하시겠습니까?");
-                    Console.WriteLine("1. 체력을 회복한다.");
+                    Console.WriteLine("1. 체력을 회복한다.(10만큼 회복)");
                     Console.WriteLine("2. 무기를 강화한다.");
                     Console.WriteLine("3. 마을을 나간다.");
 
@@ -139,17 +173,48 @@ namespace TextRPG001
                         case ConsoleKey.D2:
                             break;
                         case ConsoleKey.D3:
-                            return; //return을 하면 함수가 끝나버림
+                            return STARTSELECT.NONESELECT; //return을 하면 함수가 끝나버림
                         default:
+                            Console.WriteLine("");
+                            Console.WriteLine("잘못된 선택입니다.");
+                            Console.ReadKey();
                             break;
                     }
                 }
             } //마을
 
-            static void Battle()
+            static STARTSELECT Battle(Player player)
             {
-                Console.WriteLine("아직 개장하지 않았습니다.");
-                Console.ReadKey();
+                //Console.WriteLine("아직 개장하지 않았습니다.");
+                //Console.ReadKey();
+                Monster NewMonster = new Monster("오크");
+
+                while (player.isDeath() == false && NewMonster.isDeath() == false) {
+                    Console.Clear();
+
+                    player.StatusRender(); //상속을 이용해 공통되는 것을 손쉽게 이용
+                    NewMonster.StatusRender();
+                    Console.ReadKey();
+
+                    player.Attack(NewMonster);
+                    Console.ReadKey();
+                    if (NewMonster.isDeath() == false) {
+                        NewMonster.Attack(player);
+                        Console.ReadKey();
+                    }
+                }
+
+                Console.WriteLine("-----------------전 투 종 료-----------------");
+                if (NewMonster.isDeath() == true) {
+                    Console.WriteLine("전투에서 승리하였습니다.");
+                    Console.ReadKey();
+                }
+                else {
+                    Console.WriteLine("전투에서 패배하였습니다.");
+                    Console.ReadKey();
+                }
+
+                return STARTSELECT.SELECTTOWN;
             } //배틀
 
             //메인함수의 시작.
@@ -158,16 +223,19 @@ namespace TextRPG001
             //
             Player NewPlayer = new Player();
 
+            STARTSELECT SelectCheck = STARTSELECT.NONESELECT;
             while (true) {
                 //함수 자체의 용도를 생각해라. -> 정말 한가지의 용도로만 사용할 수 있나??
-                STARTSELECT SelectCheck = StartSelect();
 
                 switch (SelectCheck) {
+                    case STARTSELECT.NONESELECT:
+                        SelectCheck = StartSelect();
+                        break;
                     case STARTSELECT.SELECTTOWN:
-                        Town(NewPlayer);
+                        SelectCheck = Town(NewPlayer);
                         break;
                     case STARTSELECT.SELECBATTLE:
-                        Battle();
+                        SelectCheck = Battle(NewPlayer);
                         break;
                     default:
                         break;

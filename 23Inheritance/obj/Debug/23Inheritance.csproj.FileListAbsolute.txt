@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\23Inheritance\bin\Debug\23Inheritance.exe.config
+C:\UnityStudy\UnityCs\23Inheritance\bin\Debug\23Inheritance.exe
+C:\UnityStudy\UnityCs\23Inheritance\bin\Debug\23Inheritance.pdb
+C:\UnityStudy\UnityCs\23Inheritance\obj\Debug\23Inheritance.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\23Inheritance\obj\Debug\23Inheritance.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\23Inheritance\obj\Debug\23Inheritance.exe
+C:\UnityStudy\UnityCs\23Inheritance\obj\Debug\23Inheritance.pdb

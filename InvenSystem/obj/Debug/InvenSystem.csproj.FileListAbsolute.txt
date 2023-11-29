@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\InvenSystem\obj\Debug\InvenSystem.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\InvenSystem\obj\Debug\InvenSystem.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\InvenSystem\obj\Debug\InvenSystem.exe
+C:\UnityStudy\UnityCs\InvenSystem\obj\Debug\InvenSystem.pdb
+C:\UnityStudy\UnityCs\InvenSystem\bin\Debug\InvenSystem.exe.config
+C:\UnityStudy\UnityCs\InvenSystem\bin\Debug\InvenSystem.exe
+C:\UnityStudy\UnityCs\InvenSystem\bin\Debug\InvenSystem.pdb

@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\28Partial\bin\Debug\28Partial.exe.config
+C:\UnityStudy\UnityCs\28Partial\bin\Debug\28Partial.exe
+C:\UnityStudy\UnityCs\28Partial\bin\Debug\28Partial.pdb
+C:\UnityStudy\UnityCs\28Partial\obj\Debug\28Partial.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\28Partial\obj\Debug\28Partial.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\28Partial\obj\Debug\28Partial.exe
+C:\UnityStudy\UnityCs\28Partial\obj\Debug\28Partial.pdb

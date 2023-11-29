@@ -13,11 +13,19 @@
 12. Memory02(Reference)
 13. StaticVar
 14. StaticFunc
-15. StaticClass
-16. This
-17. While
-18. For
-19. If
-20. Switch
-21. Struct
-22. Enum
+
+
+객체지향의 큰 줄기.
+
+오버로딩
+
+오버라이딩
+
+인터페이스
+
+파티셜
+
+배열
+
+제네릭(자료형의 대한 제네릭)
+	  (자료구조에 대한 네임스페이스 제네릭)
