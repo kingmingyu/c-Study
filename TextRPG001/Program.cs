@@ -28,6 +28,13 @@ class FightUnit
     protected int Hp = 50;
     protected int m_MaxHp = 100;
 
+    private Inven PlayerInven = new Inven(5, 3);
+    public Inven PInven {
+        get {
+            return PlayerInven;
+        }
+    }
+
     public int MaxHp {
         get {
             return m_MaxHp;
@@ -150,15 +157,36 @@ namespace TextRPG001
 
             }//시작한다를 담당하는 함수(마을로 갈 것인지, 싸움터로 갈 것인지.)
 
+            static void Shop(Player player, Inven shopInven)
+            {
+                while (true) {
+                    Console.Clear();
+                    Console.WriteLine("--------------------");
+                    Console.WriteLine("상점주인의 물건");
+                    shopInven.Render();
+                    Console.WriteLine("--------------------");
+                    Console.WriteLine("플레이어의 물건");
+                    player.PInven.Render();
+                    Console.ReadKey();
+                }
+            }
+
             static STARTSELECT Town(Player player)
             {
                 int potion = 10;
+
+                Inven ShopInven = new Inven(5, 3);
+                ShopInven.ItemIn(new Item("철검", 500));
+                ShopInven.ItemIn(new Item("갑옷", 200));
+                ShopInven.ItemIn(new Item("용이 내가 된다", 300));
+                ShopInven.ItemIn(new Item("하하호호하하", 400));
+
                 while (true) {
                     Console.Clear();
                     player.StatusRender();
                     Console.WriteLine("마을에서 무슨일을 하시겠습니까?");
                     Console.WriteLine("1. 체력을 회복한다.(10만큼 회복)");
-                    Console.WriteLine("2. 무기를 강화한다.");
+                    Console.WriteLine("2. 상점에 들어간다.");
                     Console.WriteLine("3. 마을을 나간다.");
 
                     //switch 인자값에대한 여러가지 경우의 수.
@@ -171,6 +199,7 @@ namespace TextRPG001
                             player.HealHp(potion);
                             break;
                         case ConsoleKey.D2:
+                            Shop(player, ShopInven);
                             break;
                         case ConsoleKey.D3:
                             return STARTSELECT.NONESELECT; //return을 하면 함수가 끝나버림

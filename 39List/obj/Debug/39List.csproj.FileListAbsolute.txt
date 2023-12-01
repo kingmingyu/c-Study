@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\39List\bin\Debug\39List.exe.config
+C:\UnityStudy\UnityCs\39List\bin\Debug\39List.exe
+C:\UnityStudy\UnityCs\39List\bin\Debug\39List.pdb
+C:\UnityStudy\UnityCs\39List\obj\Debug\39List.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\39List\obj\Debug\39List.exe
+C:\UnityStudy\UnityCs\39List\obj\Debug\39List.pdb
+C:\UnityStudy\UnityCs\39List\obj\Debug\39List.csproj.AssemblyReference.cache

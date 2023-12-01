@@ -1,0 +1,2 @@
+C:\UnityStudy\UnityCs\38DataStructure\obj\Debug\38DataStructure.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\38DataStructure\obj\Debug\38DataStructure.csproj.CoreCompileInputs.cache

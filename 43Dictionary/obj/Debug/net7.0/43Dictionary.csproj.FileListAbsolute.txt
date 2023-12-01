@@ -1,0 +1,14 @@
+C:\Users\김민규\source\repos\c-Study\43Dictionary\bin\Debug\net7.0\43Dictionary.exe
+C:\Users\김민규\source\repos\c-Study\43Dictionary\bin\Debug\net7.0\43Dictionary.deps.json
+C:\Users\김민규\source\repos\c-Study\43Dictionary\bin\Debug\net7.0\43Dictionary.runtimeconfig.json
+C:\Users\김민규\source\repos\c-Study\43Dictionary\bin\Debug\net7.0\43Dictionary.dll
+C:\Users\김민규\source\repos\c-Study\43Dictionary\bin\Debug\net7.0\43Dictionary.pdb
+C:\Users\김민규\source\repos\c-Study\43Dictionary\obj\Debug\net7.0\43Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김민규\source\repos\c-Study\43Dictionary\obj\Debug\net7.0\43Dictionary.AssemblyInfoInputs.cache
+C:\Users\김민규\source\repos\c-Study\43Dictionary\obj\Debug\net7.0\43Dictionary.AssemblyInfo.cs
+C:\Users\김민규\source\repos\c-Study\43Dictionary\obj\Debug\net7.0\43Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\김민규\source\repos\c-Study\43Dictionary\obj\Debug\net7.0\43Dictionary.dll
+C:\Users\김민규\source\repos\c-Study\43Dictionary\obj\Debug\net7.0\refint\43Dictionary.dll
+C:\Users\김민규\source\repos\c-Study\43Dictionary\obj\Debug\net7.0\43Dictionary.pdb
+C:\Users\김민규\source\repos\c-Study\43Dictionary\obj\Debug\net7.0\43Dictionary.genruntimeconfig.cache
+C:\Users\김민규\source\repos\c-Study\43Dictionary\obj\Debug\net7.0\ref\43Dictionary.dll

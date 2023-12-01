@@ -1,0 +1,7 @@
+C:\UnityStudy\UnityCs\36Generic00\bin\Debug\36Generic00.exe.config
+C:\UnityStudy\UnityCs\36Generic00\bin\Debug\36Generic00.exe
+C:\UnityStudy\UnityCs\36Generic00\bin\Debug\36Generic00.pdb
+C:\UnityStudy\UnityCs\36Generic00\obj\Debug\36Generic00.csproj.AssemblyReference.cache
+C:\UnityStudy\UnityCs\36Generic00\obj\Debug\36Generic00.csproj.CoreCompileInputs.cache
+C:\UnityStudy\UnityCs\36Generic00\obj\Debug\36Generic00.exe
+C:\UnityStudy\UnityCs\36Generic00\obj\Debug\36Generic00.pdb
