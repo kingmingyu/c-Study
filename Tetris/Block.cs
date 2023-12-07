@@ -7,6 +7,14 @@ using System.Threading.Tasks;
 //객체지향 어렵지 않다.
 //난 위에서부터 블럭이 떨어지는 것을 만들고 싶다.
 
+enum BLOCKDIR
+{
+    BD_L,
+    BD_T,
+    BD_R,
+    BD_B,
+    BD_MAX,
+}
 enum BLOCKTYPE
 {
     BT_I, //짝대기
@@ -16,13 +24,14 @@ enum BLOCKTYPE
     BT_S, //오른쪽 삐뚫이
     BT_T, //법규
     BT_O, //네모
+    BT_MAX,
 }
-class Block
+partial  class Block
 {
     int X = 0;
     int Y = 0;
-
-    List<List<string>> BlockData = new List<List<string>>();
+    string[][] Arr = null;
+    //List<List<string>> BlockData = new List<List<string>>();
 
 
     TScreen Screen = null;
@@ -30,12 +39,14 @@ class Block
     public Block(TScreen screen)
     {
         Screen = screen;
+        DataInit();
 
-        for (int y = 0; y < 4; y++) {
-            BlockData.Add(new List<string>());
-        }
+        SettingBlock(BLOCKTYPE.BT_T, BLOCKDIR.BD_L);
+    }
 
-
+    private void SettingBlock(BLOCKTYPE _Type, BLOCKDIR _Dir)
+    {
+        Arr = AllBlock[(int)_Type][(int)_Dir];
     }
 
     private void Input()
@@ -62,16 +73,17 @@ class Block
     {
         //내가 어떤 키든 눌렀을 때만 input을 실행해라
         Input();
-        for (int i = 0; i < 4; i++) {
-            Screen.SetBlock(Y+i, X, "■");
+        for (int y = 0; y < 4; y++) 
+        {
+            for (int x = 0; x < 4; x++) 
+            {
+                if (Arr[y][x] == "□")
+                {
+                    continue;
+                }
+                Screen.SetBlock(Y + y, X + x, Arr[y][x]);
+            }
+            
         }
     }
 }
-
-//상속을 내리고 가상함수를 쓴다.
-class StickBlock
-{
-
-}
-
-//상속을 내린다. (방법 1)
