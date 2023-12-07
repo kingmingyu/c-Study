@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\김민규\\source\\repos\\c-Study\\43Dictionary\\43Dictionary.csproj": {}
+    "C:\\Users\\김민규\\Source\\Repos\\c-Study\\43Dictionary\\43Dictionary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\김민규\\source\\repos\\c-Study\\43Dictionary\\43Dictionary.csproj": {
+    "C:\\Users\\김민규\\Source\\Repos\\c-Study\\43Dictionary\\43Dictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\김민규\\source\\repos\\c-Study\\43Dictionary\\43Dictionary.csproj",
+        "projectUniqueName": "C:\\Users\\김민규\\Source\\Repos\\c-Study\\43Dictionary\\43Dictionary.csproj",
         "projectName": "43Dictionary",
-        "projectPath": "C:\\Users\\김민규\\source\\repos\\c-Study\\43Dictionary\\43Dictionary.csproj",
+        "projectPath": "C:\\Users\\김민규\\Source\\Repos\\c-Study\\43Dictionary\\43Dictionary.csproj",
         "packagesPath": "C:\\Users\\김민규\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\김민규\\source\\repos\\c-Study\\43Dictionary\\obj\\",
+        "outputPath": "C:\\Users\\김민규\\Source\\Repos\\c-Study\\43Dictionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\김민규\\AppData\\Roaming\\NuGet\\NuGet.Config",
