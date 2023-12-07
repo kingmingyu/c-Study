@@ -5,3 +5,10 @@ C:\UnityStudy\UnityCs\00Using\obj\Debug\00Using.csproj.AssemblyReference.cache
 C:\UnityStudy\UnityCs\00Using\obj\Debug\00Using.csproj.CoreCompileInputs.cache
 C:\UnityStudy\UnityCs\00Using\obj\Debug\00Using.exe
 C:\UnityStudy\UnityCs\00Using\obj\Debug\00Using.pdb
+C:\UnityCS\00Using\bin\Debug\00Using.exe.config
+C:\UnityCS\00Using\bin\Debug\00Using.exe
+C:\UnityCS\00Using\bin\Debug\00Using.pdb
+C:\UnityCS\00Using\obj\Debug\00Using.csproj.AssemblyReference.cache
+C:\UnityCS\00Using\obj\Debug\00Using.csproj.CoreCompileInputs.cache
+C:\UnityCS\00Using\obj\Debug\00Using.exe
+C:\UnityCS\00Using\obj\Debug\00Using.pdb

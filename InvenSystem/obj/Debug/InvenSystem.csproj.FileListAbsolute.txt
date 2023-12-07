@@ -5,3 +5,10 @@ C:\UnityStudy\UnityCs\InvenSystem\obj\Debug\InvenSystem.pdb
 C:\UnityStudy\UnityCs\InvenSystem\bin\Debug\InvenSystem.exe.config
 C:\UnityStudy\UnityCs\InvenSystem\bin\Debug\InvenSystem.exe
 C:\UnityStudy\UnityCs\InvenSystem\bin\Debug\InvenSystem.pdb
+C:\UnityCS\InvenSystem\bin\Debug\InvenSystem.exe.config
+C:\UnityCS\InvenSystem\bin\Debug\InvenSystem.exe
+C:\UnityCS\InvenSystem\bin\Debug\InvenSystem.pdb
+C:\UnityCS\InvenSystem\obj\Debug\InvenSystem.csproj.AssemblyReference.cache
+C:\UnityCS\InvenSystem\obj\Debug\InvenSystem.csproj.CoreCompileInputs.cache
+C:\UnityCS\InvenSystem\obj\Debug\InvenSystem.exe
+C:\UnityCS\InvenSystem\obj\Debug\InvenSystem.pdb
