@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\김민규\\source\\repos\\c-Study\\44DataStructEx\\44DataStructEx.csproj": {}
+    "C:\\Users\\김민규\\Source\\Repos\\c-Study\\44DataStructEx\\44DataStructEx.csproj": {}
   },
   "projects": {
-    "C:\\Users\\김민규\\source\\repos\\c-Study\\44DataStructEx\\44DataStructEx.csproj": {
+    "C:\\Users\\김민규\\Source\\Repos\\c-Study\\44DataStructEx\\44DataStructEx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\김민규\\source\\repos\\c-Study\\44DataStructEx\\44DataStructEx.csproj",
+        "projectUniqueName": "C:\\Users\\김민규\\Source\\Repos\\c-Study\\44DataStructEx\\44DataStructEx.csproj",
         "projectName": "44DataStructEx",
-        "projectPath": "C:\\Users\\김민규\\source\\repos\\c-Study\\44DataStructEx\\44DataStructEx.csproj",
+        "projectPath": "C:\\Users\\김민규\\Source\\Repos\\c-Study\\44DataStructEx\\44DataStructEx.csproj",
         "packagesPath": "C:\\Users\\김민규\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\김민규\\source\\repos\\c-Study\\44DataStructEx\\obj\\",
+        "outputPath": "C:\\Users\\김민규\\Source\\Repos\\c-Study\\44DataStructEx\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\김민규\\AppData\\Roaming\\NuGet\\NuGet.Config",
